@@ -1,0 +1,11 @@
+{
+  "dataset_version": "v1.0",
+  "checksums_sha256": {
+    "page_sample_updated.csv": "7d5c14aa5876d5202bc21aa92d746521c50d56f4f3a4143c67edc1f139d176e8",
+    "sc_function_mapping.csv": "e6da87f4c98e84aa2fb5a1accc12bb46ef2e9ef0301430c06d1b20a18ef82e47",
+    "audit_findings_integrated.csv": "2bd9727b33f5579ab147f14e98abb6fabf9acad3a349268fd8e2c8fd5bc077a5",
+    "priority_results.csv": "ee5650802ad6a4088397dcf602ea24fa1fc2723a22b91768f875686152588f5d",
+    "top_issue_affected_pages.csv": "3b1cddca59a006da99382ed0fe4a10b886136e570d2538bda7900ff567810e45",
+    "model_saw_v1_0.joblib": "df73fa80b73038e7f1cc81f0abc297ac07efc1d33573f40b64899f4d3a987a0c"
+  }
+}

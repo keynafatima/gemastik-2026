@@ -1,0 +1,7 @@
+website_id,category,scenario,rank,final_score,technical_norm,technical_score_raw,demographic_norm,demographic_score_raw,top_issues,n_temuan_top_issues,label
+W01,melihat,S2,1,0.9048,1.0,52.365,0.8095,0.0059,"1.4.3, 1.1.1, 2.4.4",284,Rank tertinggi
+W16,melihat,S2,30,0.0077,0.0155,1.4,0.0,0.0025,"1.4.4, 3.1.1",10,Rank terendah
+W33,mendengar,S2,1,0.5,0.0,0.0,1.0,0.0063,-,0,Rank tertinggi
+W10,mendengar,S2,30,0.0,0.0,0.0,0.0,0.0021,-,0,Rank terendah
+W33,tangan,S2,1,0.7921,0.5843,7.34,1.0,0.0046,"4.1.2, 2.4.4, 1.1.1",130,Rank tertinggi
+W16,tangan,S2,30,0.0218,0.008,0.1,0.0357,0.0019,1.4.4,5,Rank terendah

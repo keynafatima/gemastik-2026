@@ -1,0 +1,31 @@
+website_id,total_pages_audited,audit_date,crawl_status,institution_name,domain,province_name,bps_region_code
+W01,5,2026-08-02,complete,Dinas Sosial Provinsi Aceh,dinsos.acehprov.go.id,Aceh,11
+W02,5,2026-08-02,complete,Dinas Sosial Provinsi Sumatera Utara,dinsos.sumutprov.go.id,Sumatera Utara,12
+W03,5,2026-08-02,complete,Dinas Sosial Provinsi Sumatera Barat,dinsos.sumbarprov.go.id,Sumatera Barat,13
+W04,5,2026-08-02,complete,Dinas Sosial Provinsi Riau,dinsos.riau.go.id,Riau,14
+W05,5,2026-08-02,complete,Dinas Sosial Provinsi Jambi,dinsosjambipemprov.com,Jambi,15
+W06,4,2026-08-02,complete,Dinas Sosial Provinsi Sumatera Selatan,dinsos.sumselprov.go.id,Sumatera Selatan,16
+W08,5,2026-08-02,complete,Dinas Sosial Provinsi Lampung,lampungprov.go.id,Lampung,18
+W09,5,2026-08-02,complete,Dinas Sosial Provinsi Kepulauan Bangka Belitung,drupal.dinsospmd.babelprov.go.id,Kepulauan Bangka Belitung,19
+W10,5,2026-08-02,complete,Dinas Sosial Provinsi Kepulauan Riau,dinsos.kepriprov.go.id,Kepulauan Riau,21
+W11,5,2026-08-02,complete,Dinas Sosial Provinsi Dki Jakarta,dinsos.jakarta.go.id,Dki Jakarta,31
+W12,5,2026-08-02,complete,Dinas Sosial Provinsi Jawa Barat,dinsos.jabarprov.go.id,Jawa Barat,32
+W13,5,2026-08-02,complete,Dinas Sosial Provinsi Jawa Tengah,jatengprov.go.id,Jawa Tengah,33
+W14,5,2026-08-02,complete,Dinas Sosial Provinsi Di Yogyakarta,dinsos.jogjaprov.go.id,Di Yogyakarta,34
+W15,5,2026-08-02,complete,Dinas Sosial Provinsi Jawa Timur,dinsos.jatimprov.go.id,Jawa Timur,35
+W16,5,2026-08-02,complete,Dinas Sosial Provinsi Banten,dinsos.bantenprov.go.id,Banten,36
+W17,5,2026-08-02,complete,Dinas Sosial Provinsi Bali,dissosp3a.baliprov.go.id,Bali,51
+W18,5,2026-08-02,complete,Dinas Sosial Provinsi Nusa Tenggara Barat,dinsosntbpemprov.com,Nusa Tenggara Barat,52
+W19,5,2026-08-02,complete,Dinas Sosial Provinsi Nusa Tenggara Timur,dinsos.nttprov.go.id,Nusa Tenggara Timur,53
+W20,5,2026-08-02,complete,Dinas Sosial Provinsi Kalimantan Barat,dinsos.kalbarprov.go.id,Kalimantan Barat,61
+W21,5,2026-08-02,complete,Dinas Sosial Provinsi Kalimantan Tengah,dinsos.kalteng.go.id,Kalimantan Tengah,62
+W22,5,2026-08-02,complete,Dinas Sosial Provinsi Kalimantan Selatan,dinsos.kalselprov.go.id,Kalimantan Selatan,63
+W23,5,2026-08-02,complete,Dinas Sosial Provinsi Kalimantan Timur,dinsos.kaltimprov.go.id,Kalimantan Timur,64
+W24,5,2026-08-02,complete,Dinas Sosial Provinsi Kalimantan Utara,dinsos.kaltaraprov.go.id,Kalimantan Utara,65
+W25,5,2026-08-02,complete,Dinas Sosial Provinsi Sulawesi Utara,sulutprov.go.id,Sulawesi Utara,71
+W27,4,2026-08-02,complete,Dinas Sosial Provinsi Sulawesi Selatan,dinsossulselpemprov.com,Sulawesi Selatan,73
+W29,5,2026-08-02,complete,Dinas Sosial Provinsi Gorontalo,dinsos.gorontaloprov.go.id,Gorontalo,75
+W31,5,2026-08-02,complete,Dinas Sosial Provinsi Maluku,dinsos.malukuprov.go.id,Maluku,81
+W32,5,2026-08-02,complete,Dinas Sosial Provinsi Maluku Utara,malutprov.go.id,Maluku Utara,82
+W33,5,2026-08-02,complete,Dinas Sosial Provinsi Papua,dinsosdukcapil.papua.go.id,Papua,94
+W34,5,2026-08-02,complete,Dinas Sosial Provinsi Papua Barat,dinsos.papuabaratprov.go.id,Papua Barat,91

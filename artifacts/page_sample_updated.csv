@@ -1,0 +1,151 @@
+page_id,website_id,page_url,page_type,selection_reason,http_status,render_status,tested_at
+P001,W01,https://dinsos.acehprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:20:49.517723+00:00
+P002,W01,https://dinsos.acehprov.go.id/halaman/visi-dan-misi,Profil,"Auto-dipilih (link: ""VISI-MISI"", keyword: visi) - REVIEW",,rendered,2026-08-02T06:21:01.588494+00:00
+P003,W01,https://dinsos.acehprov.go.id/halaman/sarana-layanan-ppid,Layanan,"Auto-dipilih (link: ""SARANA LAYANAN PPID"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:21:05.287005+00:00
+P004,W01,https://dinsos.acehprov.go.id/berita,Konten,"Auto-dipilih (link: ""BERITA"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:21:08.470007+00:00
+P005,W01,https://dinsos.acehprov.go.id/halaman/formulir-permohonan-informasi-publik,Interaksi/Kontak,"Auto-dipilih (link: ""FORMULIR PERMOHONAN INFORMASI PUBLIK"", keyword: formulir) - REVIEW",,rendered,2026-08-02T06:21:11.641934+00:00
+P006,W02,https://dinsos.sumutprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:21:21.744126+00:00
+P007,W02,https://dinsos.sumutprov.go.id/pages/tugas-dan-fungsi,Profil,"Auto-dipilih (link: ""Tugas dan Fungsi"", keyword: tugas dan fungsi) - REVIEW",,rendered,2026-08-02T06:21:34.849323+00:00
+P008,W02,https://dinsos.sumutprov.go.id/pages/maklumat-pelayanan,Layanan,"Auto-dipilih (link: ""Maklumat Pelayanan"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:21:39.647097+00:00
+P009,W02,https://dinsos.sumutprov.go.id/news,Konten,"Auto-dipilih (link: ""Berita"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:21:44.016506+00:00
+P010,W02,https://dinsos.sumutprov.go.id/pages/kontak,Interaksi/Kontak,"Auto-dipilih (link: ""Kontak"", keyword: kontak) - REVIEW",,rendered,2026-08-02T06:21:47.897104+00:00
+P011,W03,https://dinsos.sumbarprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:21:51.805001+00:00
+P012,W03,https://dinsos.sumbarprov.go.id/profil,Profil,"Auto-dipilih (link: ""Profil"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:22:05.737232+00:00
+P013,W03,https://dinsos.sumbarprov.go.id/permohonanInformasi,Layanan,"Auto-dipilih (link: ""Permohonan Informasi"", keyword: permohonan) - REVIEW",,rendered,2026-08-02T06:22:14.379320+00:00
+P014,W03,https://dinsos.sumbarprov.go.id/berita,Konten,"Auto-dipilih (link: ""Berita"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:22:18.099992+00:00
+P015,W03,https://dinsos.sumbarprov.go.id/pengumuman/mekanisme-konsultasi-dan-pengaduan,Interaksi/Kontak,"Auto-dipilih (link: ""Baca Selengkapnya"", keyword: pengaduan) - REVIEW",,rendered,2026-08-02T06:22:22.821978+00:00
+P016,W04,https://dinsos.riau.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:22:28.348270+00:00
+P017,W04,https://dinsos.riau.go.id/profil,Profil,"Auto-dipilih (link: ""Profil"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:22:42.707646+00:00
+P018,W04,https://dinsos.riau.go.id/berita/19,Layanan,"Auto-dipilih (link: ""Maklumat Layanan Informasi"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:22:49.371934+00:00
+P019,W04,https://dinsos.riau.go.id/berita,Konten,"Auto-dipilih (link: ""Berita"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:22:54.835699+00:00
+P020,W04,https://dinsos.riau.go.id/ppid/daftar-informasi/pengaduan-monitoring-pkh,Interaksi/Kontak,"Auto-dipilih (link: ""11. Pengaduan Masyarakat, Monitoring dan Evaluasi Program Keluarga Harapan (PKH)"", keyword: pengaduan) - REVIEW",,rendered,2026-08-02T06:22:59.087078+00:00
+P021,W05,https://dinsosjambipemprov.com/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:23:03.493889+00:00
+P022,W05,https://dinsosjambipemprov.com/profile/,Profil,PERLU CEK MANUAL - tidak ketemu di requests maupun Selenium,,rendered,2026-08-02T06:23:12.931193+00:00
+P023,W05,https://dinsosjambipemprov.com/layanan/,Layanan,PERLU CEK MANUAL - tidak ketemu di requests maupun Selenium,,rendered,2026-08-02T06:23:16.866039+00:00
+P024,W05,https://dinsosjambipemprov.com/berita/,Konten,PERLU CEK MANUAL - tidak ketemu di requests maupun Selenium,,rendered,2026-08-02T06:23:20.201466+00:00
+P025,W05,https://dinsosjambipemprov.com/berita/#,Interaksi/Kontak,PERLU CEK MANUAL - tidak ketemu di requests maupun Selenium,,rendered,2026-08-02T06:23:23.629101+00:00
+P026,W06,https://dinsos.sumselprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,timeout,2026-08-02T07:30:37.267452+00:00
+P027,W06,https://dinsos.sumselprov.go.id/profil/struktur-organisasi,Profil,"Auto-dipilih (link: ""Struktur Organisasi"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:23:56.517473+00:00
+P028,W06,https://dinsos.sumselprov.go.id/layanan/rekomendasi-izin-undian-gratis,Layanan,"Auto-dipilih (link: ""Rekomendasi Izin Undian Gratis (Provinsi)"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:24:01.457110+00:00
+P029,W06,https://dinsos.sumselprov.go.id/berita,Konten,"Auto-dipilih (link: ""berita"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:24:06.451162+00:00
+P030,W06,https://dinsos.sumselprov.go.id/layanan/pengaduan-masyarakat,Interaksi/Kontak,"Auto-dipilih (link: ""Pengaduan Masyarakat"", keyword: pengaduan) - REVIEW",,rendered,2026-08-02T06:24:14.863306+00:00
+P036,W08,https://lampungprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:26:19.828379+00:00
+P037,W08,https://opendata.lampungprov.go.id/,Profil,PERLU CEK MANUAL - tidak ketemu di requests maupun Selenium,,rendered,2026-08-02T06:26:26.282622+00:00
+P038,W08,https://lampungprov.go.id/layanan-publik,Layanan,"Auto-dipilih (link: ""Layanan Publik"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:26:36.504414+00:00
+P039,W08,https://ppid.lampungprov.go.id/,Konten,PERLU CEK MANUAL - tidak ketemu di requests maupun Selenium,,rendered,2026-08-02T06:26:51.084676+00:00
+P040,W08,https://lampungprov.go.id/,Interaksi/Kontak,ada tombol dibawah,,rendered,2026-08-02T06:26:54.750942+00:00
+P041,W09,https://drupal.dinsospmd.babelprov.go.id,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:26:59.433839+00:00
+P042,W09,https://drupal.dinsospmd.babelprov.go.id/bahas-realisasi-anggaran-tahun-2025-kepala-dinas-sosial-pmd-mengikuti-rapat-kerja-dengan-komisi-iv,Profil,"Auto-dipilih (link: """", keyword: misi) - REVIEW",,rendered,2026-08-02T06:27:07.250761+00:00
+P043,W09,https://drupal.dinsospmd.babelprov.go.id/silahturahmi-dengan-pegawai-plt-kepala-dinsospmd-ajak-pegawai-untuk-berikan-layanan-publik-yang-baik,Layanan,"Auto-dipilih (link: """", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:27:12.338789+00:00
+P044,W09,https://drupal.dinsospmd.babelprov.go.id/berita,Konten,"Auto-dipilih (link: ""more"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:27:16.329831+00:00
+P045,W09,https://drupal.dinsospmd.babelprov.go.id/kanal-layanan-pengaduan,Interaksi/Kontak,"Auto-dipilih (link: """", keyword: pengaduan) - REVIEW",,rendered,2026-08-02T06:27:21.749476+00:00
+P046,W10,https://dinsos.kepriprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:27:26.218984+00:00
+P047,W10,https://dinsos.kepriprov.go.id/laman/tentang-kami,Profil,"Auto-dipilih (link: ""Profil"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:27:36.250120+00:00
+P048,W10,https://dinsos.kepriprov.go.id/layanan,Layanan,"Auto-dipilih (link: ""Layanan"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:27:40.845793+00:00
+P049,W10,https://dinsos.kepriprov.go.id/berita,Konten,"Auto-dipilih (link: ""Berita"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:27:45.818111+00:00
+P050,W10,https://dinsos.kepriprov.go.id/kontak,Interaksi/Kontak,"Auto-dipilih (link: ""Kontak Kami"", keyword: kontak) - REVIEW",,rendered,2026-08-02T06:27:49.453837+00:00
+P051,W11,https://dinsos.jakarta.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:27:55.091708+00:00
+P052,W11,https://dinsos.jakarta.go.id/profile,Profil,"Auto-dipilih (link: ""Profil Kepala Dinas"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:28:28.480028+00:00
+P053,W11,https://dinsos.jakarta.go.id/asset-frontend/file/Alur-PPID.pdf,Layanan,"Auto-dipilih (link: ""Tata Cara Permohonan Pengajuan Informasi dan Permohonan Keberatan"", keyword: permohonan) - REVIEW",,rendered,2026-08-02T06:28:34.554525+00:00
+P054,W11,https://dinsos.jakarta.go.id/asset-frontend/file/Alur-PPID.pdf,Konten,"Auto-dipilih (link: ""Tata Cara Permohonan Pengajuan Informasi dan Permohonan Keberatan"", keyword: informasi) - REVIEW",,rendered,2026-08-02T06:28:37.220975+00:00
+P055,W11,https://dinsos.jakarta.go.id/,Interaksi/Kontak,di footer,,rendered,2026-08-02T06:28:39.521150+00:00
+P056,W12,https://dinsos.jabarprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:28:43.966998+00:00
+P057,W12,https://dinsos.jabarprov.go.id/visi-misi,Profil,"Auto-dipilih (link: ""Visi Misi"", keyword: visi) - REVIEW",,rendered,2026-08-02T06:28:47.074119+00:00
+P058,W12,https://dinsos.jabarprov.go.id/sasaran-program-dinsos-jabar,Layanan,"Auto-dipilih (link: ""Sasaran Program"", keyword: program) - REVIEW",,rendered,2026-08-02T06:28:49.540783+00:00
+P059,W12,https://dinsos.jabarprov.go.id/sop-pelayanan-informasi,Konten,"Auto-dipilih (link: ""Prosedur Pelayanan Informasi"", keyword: informasi) - REVIEW",,rendered,2026-08-02T06:28:51.971434+00:00
+P060,W12,https://dinsos.jabarprov.go.id/pengaduan,Interaksi/Kontak,"Auto-dipilih (link: ""Pengaduan"", keyword: pengaduan) - REVIEW",,rendered,2026-08-02T06:28:54.386008+00:00
+P061,W13,https://jatengprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:28:56.724972+00:00
+P062,W13,https://jatengprov.go.id/sejarah/,Profil,"Auto-dipilih (link: ""Sejarah"", keyword: sejarah) - REVIEW",,rendered,2026-08-02T06:29:14.169958+00:00
+P063,W13,https://jatengprov.go.id/katalog-layanan-jatengprov/,Layanan,"Auto-dipilih (link: ""Katalog Layanan"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:29:18.161523+00:00
+P064,W13,https://jatengprov.go.id,Konten,"Auto-dipilih (link: ""JATENGPROV.GO.IDPortal Informasi Warga Jateng"", keyword: informasi) - REVIEW",,rendered,2026-08-02T06:29:22.971139+00:00
+P065,W13,https://jatengprov.go.id,Interaksi/Kontak,di foooter,,rendered,2026-08-02T06:29:31.340880+00:00
+P066,W14,https://dinsos.jogjaprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:29:37.405288+00:00
+P067,W14,https://dinsos.jogjaprov.go.id/#,Profil,PERLU CEK MANUAL - tidak ketemu di requests maupun Selenium,,rendered,2026-08-02T06:29:53.543068+00:00
+P068,W14,https://dinsos.jogjaprov.go.id/layanan,Layanan,"Auto-dipilih (link: ""Lihat Semua Layanan"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:29:58.707602+00:00
+P069,W14,https://dinsos.jogjaprov.go.id/informasi,Konten,"Auto-dipilih (link: ""Lihat Semua Informasi"", keyword: informasi) - REVIEW",,rendered,2026-08-02T06:30:11.147554+00:00
+P070,W14,https://dinsos.jogjaprov.go.id/#,Interaksi/Kontak,PERLU CEK MANUAL - tidak ketemu di requests maupun Selenium,,rendered,2026-08-02T06:30:19.040429+00:00
+P071,W15,https://dinsos.jatimprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:30:32.731084+00:00
+P072,W15,https://dinsos.jatimprov.go.id/profil,Profil,"Auto-dipilih (link: ""Provinsi"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:30:35.666506+00:00
+P073,W15,https://dinsos.jatimprov.go.id/menu/layanan,Layanan,"Auto-dipilih (link: ""Layanan"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:30:37.969395+00:00
+P074,W15,https://dinsos.jatimprov.go.id/list-kegiatan,Konten,"Auto-dipilih (link: ""Kegiatan"", keyword: kegiatan) - REVIEW",,rendered,2026-08-02T06:30:40.246848+00:00
+P075,W15,https://dinsos.jatimprov.go.id/laporan-publik,Interaksi/Kontak,"Auto-dipilih (link: ""Layanan Pengaduan"", keyword: pengaduan) - REVIEW",,rendered,2026-08-02T06:30:42.525328+00:00
+P076,W16,https://dinsos.bantenprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:30:44.801948+00:00
+P077,W16,https://dinsos.bantenprov.go.id/sejarah-banten,Profil,"Auto-dipilih (link: ""Sejarah Banten"", keyword: sejarah) - REVIEW",,rendered,2026-08-02T06:30:48.824971+00:00
+P078,W16,https://dinsos.bantenprov.go.id/kebijakan-pelayanan-informasi-publik,Layanan,"Auto-dipilih (link: ""Kebijakan Pelayanan Informasi Publik"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:30:52.168143+00:00
+P079,W16,https://dinsos.bantenprov.go.id/kategori/9fcd9da3-756c-46af-ba9f-bfb06ac57533/artikel,Konten,"Auto-dipilih (link: ""Artikel"", keyword: artikel) - REVIEW",,rendered,2026-08-02T06:30:55.531417+00:00
+P080,W16,https://dinsos.bantenprov.go.id/tata-cara-pengaduan,Interaksi/Kontak,"Auto-dipilih (link: ""Tata Cara Pengaduan"", keyword: pengaduan) - REVIEW",,rendered,2026-08-02T06:30:58.877937+00:00
+P081,W17,https://dissosp3a.baliprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:31:02.345868+00:00
+P082,W17,https://dissosp3a.baliprov.go.id/profil-perangkat-daerah/,Profil,PERLU CEK MANUAL - tidak ketemu di requests maupun Selenium,,rendered,2026-08-02T06:31:24.301293+00:00
+P083,W17,https://dissosp3a.baliprov.go.id/maklumat-pelayanan/,Layanan,PERLU CEK MANUAL - tidak ketemu di requests maupun Selenium,,rendered,2026-08-02T06:31:34.376693+00:00
+P084,W17,https://dissosp3a.baliprov.go.id/berita/,Konten,PERLU CEK MANUAL - tidak ketemu di requests maupun Selenium,,rendered,2026-08-02T06:31:46.159127+00:00
+P085,W17,https://dissosp3a.baliprov.go.id/,Interaksi/Kontak,di footer,,rendered,2026-08-02T06:31:58.656158+00:00
+P086,W18,https://dinsosntbpemprov.com/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:32:17.343836+00:00
+P087,W18,https://dinsosntbpemprov.com/profile/,Profil,"Auto-dipilih (link: ""Profil Kepala Dinas"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:32:25.746585+00:00
+P088,W18,https://dinsosntbpemprov.com/tata-cara-permohonan-pengajuan-informasi-dan-permohonan-keberatan/,Layanan,"Auto-dipilih (link: ""Tata Cara Permohonan Pengajuan Informasi dan Permohonan Keberatan"", keyword: permohonan) - REVIEW",,rendered,2026-08-02T06:32:29.377842+00:00
+P089,W18,https://dinsosntbpemprov.com/tata-cara-permohonan-pengajuan-informasi-dan-permohonan-keberatan/,Konten,"Auto-dipilih (link: ""Tata Cara Permohonan Pengajuan Informasi dan Permohonan Keberatan"", keyword: informasi) - REVIEW",,rendered,2026-08-02T06:32:33.229834+00:00
+P090,W18,https://dinsosntbpemprov.com/,Interaksi/Kontak,footer,,rendered,2026-08-02T06:32:36.227058+00:00
+P091,W19,https://dinsos.nttprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:32:40.092718+00:00
+P092,W19,https://dinsos.nttprov.go.id/profil-dinas,Profil,"Auto-dipilih (link: ""Profil"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:32:49.719661+00:00
+P093,W19,https://dinsos.nttprov.go.id/layanan/pengaduan,Layanan,"Auto-dipilih (link: ""Pengaduan"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:32:57.461717+00:00
+P094,W19,https://dinsos.nttprov.go.id/berita,Konten,"Auto-dipilih (link: ""Berita"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:33:01.412411+00:00
+P095,W19,https://dinsos.nttprov.go.id/kontak,Interaksi/Kontak,"Auto-dipilih (link: ""Kontak"", keyword: kontak) - REVIEW",,rendered,2026-08-02T06:33:05.301394+00:00
+P096,W20,https://dinsos.kalbarprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:33:08.843115+00:00
+P097,W20,https://dinsos.kalbarprov.go.id/profil/struktur-organisasi/,Profil,"Auto-dipilih (link: ""Struktur Organisasi"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:33:16.750320+00:00
+P098,W20,https://dinsos.kalbarprov.go.id/infografis/perbaiki-layanan-publik/,Layanan,"Auto-dipilih (link: ""Perbaiki Layanan Publik"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:33:21.466466+00:00
+P099,W20,https://dinsos.kalbarprov.go.id/berita,Konten,"Auto-dipilih (link: ""Berita"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:33:24.348224+00:00
+P100,W20,https://dinsos.kalbarprov.go.id/hubungi-kami,Interaksi/Kontak,"Auto-dipilih (link: ""Hubungi Kami"", keyword: hubungi) - REVIEW",,rendered,2026-08-02T06:33:29.271283+00:00
+P101,W21,https://dinsos.kalteng.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:33:32.859387+00:00
+P102,W21,https://dinsos.kalteng.go.id/tentang/visi,Profil,"Auto-dipilih (link: ""Visi Dinas Sosial"", keyword: tentang) - REVIEW",,rendered,2026-08-02T06:33:45.274056+00:00
+P103,W21,https://dinsos.kalteng.go.id/pelayanan/pmks,Layanan,"Auto-dipilih (link: ""PMKS"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:33:48.778110+00:00
+P104,W21,https://dinsos.kalteng.go.id/kabar/kategori/artikel,Konten,"Auto-dipilih (link: ""Artikel"", keyword: artikel) - REVIEW",,rendered,2026-08-02T06:33:53.385962+00:00
+P105,W21,https://dinsos.kalteng.go.id/kontak-kami,Interaksi/Kontak,"Auto-dipilih (link: ""Kontak"", keyword: kontak) - REVIEW",,rendered,2026-08-02T06:33:59.177623+00:00
+P106,W22,https://dinsos.kalselprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:34:02.875755+00:00
+P107,W22,https://dinsos.kalselprov.go.id/user/profil/VISI-DAN-MISI,Profil,"Auto-dipilih (link: ""VISI DAN MISI"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:34:11.667006+00:00
+P108,W22,https://dinsos.kalselprov.go.id/user/layanan/Pengangkatan-Anak,Layanan,"Auto-dipilih (link: ""Standar Pelayanan Pengangkatan Anak"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:34:15.886005+00:00
+P109,W22,https://dinsos.kalselprov.go.id/user/berita?page=1,Konten,"Auto-dipilih (link: ""INFORMASI"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:34:19.326943+00:00
+P110,W22,https://dinsos.kalselprov.go.id/user/kontak,Interaksi/Kontak,"Auto-dipilih (link: ""KONTAK KAMI"", keyword: kontak) - REVIEW",,rendered,2026-08-02T06:34:23.506149+00:00
+P111,W23,https://dinsos.kaltimprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:34:27.287194+00:00
+P112,W23,https://dinsos.kaltimprov.go.id/profil-dinsos,Profil,"Auto-dipilih (link: ""Tentang"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:34:37.361326+00:00
+P113,W23,https://dinsos.kaltimprov.go.id/maklumat-pelayanan-2,Layanan,"Auto-dipilih (link: ""Maklumat Pelayanan"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:34:46.001786+00:00
+P114,W23,https://dinsos.kaltimprov.go.id/berita,Konten,"Auto-dipilih (link: ""Media Center"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:34:56.378953+00:00
+P115,W23,https://dinsos.kaltimprov.go.id/kontak,Interaksi/Kontak,"Auto-dipilih (link: ""Kontak"", keyword: kontak) - REVIEW",,rendered,2026-08-02T06:35:01.233870+00:00
+P116,W24,https://dinsos.kaltaraprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:35:14.711451+00:00
+P117,W24,https://dinsos.kaltaraprov.go.id/Profil,Profil,"Auto-dipilih (link: ""Profil"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:35:17.840873+00:00
+P118,W24,https://dinsos.kaltaraprov.go.id/pelayanan-pengaduan/,Layanan,"Auto-dipilih (link: ""Layanan"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:35:20.457786+00:00
+P119,W24,https://dinsos.kaltaraprov.go.id/elementor-6083,Konten,"Auto-dipilih (link: ""Berita Kaltara"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:35:23.042738+00:00
+P120,W24,https://dinsos.kaltaraprov.go.id/pelayanan-pengaduan/,Interaksi/Kontak,"Auto-dipilih (link: ""Layanan"", keyword: pengaduan) - REVIEW",,rendered,2026-08-02T06:35:25.583952+00:00
+P121,W25,https://sulutprov.go.id,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:35:28.076697+00:00
+P122,W25,https://sulutprov.go.id/profil,Profil,"Auto-dipilih (link: ""Profil"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:35:32.843271+00:00
+P123,W25,https://sulutprov.go.id/press-release/gubernur-yulius-pastikan-negara-hadir-bantuan-untuk-korban-kebakaran-asgap-pakowa-disalurkan,Layanan,"Auto-dipilih (link: ""30 Juli 2026Gubernur Yulius Pastikan Negara Hadir, Bantuan untuk Korban Kebakara"", keyword: bantuan) - REVIEW",,rendered,2026-08-02T06:35:39.887044+00:00
+P124,W25,https://sulutprov.go.id/berita,Konten,"Auto-dipilih (link: ""Berita"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:35:46.395222+00:00
+P125,W25,https://sulutprov.go.id/profil,Interaksi/Kontak,email ada di footer,,rendered,2026-08-02T06:35:49.226438+00:00
+P131,W27,https://dinsossulselpemprov.com/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:35:52.513807+00:00
+P132,W27,https://dinsossulselpemprov.com/profile/,Profil,"Auto-dipilih (link: ""Profil Kepala Dinas"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:36:03.062965+00:00
+P133,W27,https://dinsossulselpemprov.com/tata-cara-permohonan-pengajuan-informasi-dan-permohonan-keberatan/,Layanan,"Auto-dipilih (link: ""Tata Cara Permohonan Pengajuan Informasi dan Permohonan Keberatan"", keyword: permohonan) - REVIEW",,rendered,2026-08-02T06:36:06.709467+00:00
+P134,W27,https://dinsossulselpemprov.com/tata-cara-permohonan-pengajuan-informasi-dan-permohonan-keberatan/,Konten,"Auto-dipilih (link: ""Tata Cara Permohonan Pengajuan Informasi dan Permohonan Keberatan"", keyword: informasi) - REVIEW",,rendered,2026-08-02T06:36:10.037846+00:00
+P135,W27,,Interaksi/Kontak,PERLU CEK MANUAL - tidak ketemu di requests maupun Selenium,,,
+P141,W29,https://dinsos.gorontaloprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:38:12.984639+00:00
+P142,W29,https://dinsos.gorontaloprov.go.id/struktur-organisasi-dinsos-dukcapil-provgorontalo-th-2025,Profil,"Auto-dipilih (link: ""Struktur Organisasi"", keyword: struktur) - REVIEW",,rendered,2026-08-02T06:38:19.330586+00:00
+P143,W29,https://dinsos.gorontaloprov.go.id/layanan,Layanan,"Auto-dipilih (link: ""Lihat Layanan"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:38:23.688113+00:00
+P144,W29,https://dinsos.gorontaloprov.go.id/berita,Konten,"Auto-dipilih (link: ""Berita Terbaru"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:38:27.939951+00:00
+P145,W29,https://dinsos.gorontaloprov.go.id/,Interaksi/Kontak,ada di footer,,rendered,2026-08-02T06:38:33.013749+00:00
+P151,W31,https://dinsos.malukuprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:39:44.154548+00:00
+P152,W31,https://dinsos.malukuprov.go.id/,Profil,"Auto-dipilih (link: ""PROFIL"", keyword: profil) - REVIEW",,rendered,2026-08-02T06:39:54.997145+00:00
+P153,W31,https://dinsos.malukuprov.go.id/halaman/detail/moto-pelayanan,Layanan,"Auto-dipilih (link: ""Motto dan Maklumat"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:40:01.729839+00:00
+P154,W31,https://dinsos.malukuprov.go.id/berita,Konten,"Auto-dipilih (link: ""Berita & Kegiatan"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:40:10.840996+00:00
+P155,W31,https://dinsos.malukuprov.go.id/aduan,Interaksi/Kontak,"Auto-dipilih (link: ""Form Pengaduan internal"", keyword: pengaduan) - REVIEW",,rendered,2026-08-02T06:40:18.916142+00:00
+P156,W32,https://malutprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:40:22.147076+00:00
+P157,W32,https://malutprov.go.id/pages/tentang-maluku-utara,Profil,"Auto-dipilih (link: ""Tentang"", keyword: tentang) - REVIEW",,rendered,2026-08-02T06:40:31.065073+00:00
+P158,W32,https://malutprov.go.id/sinergi-pemprov-malut-dan-ombudsman-ri-dorong-pelayanan-publik-bebas-maladministrasi,Layanan,"Auto-dipilih (link: ""Sekprov30 Jul 2026Sinergi Pemprov Malut dan Ombudsman RI Dorong Pelayanan Publik"", keyword: layanan) - REVIEW",,rendered,2026-08-02T06:40:36.046392+00:00
+P159,W32,https://malutprov.go.id/pages/informasi-berkala,Konten,"Auto-dipilih (link: ""Informasi Berkala"", keyword: informasi) - REVIEW",,rendered,2026-08-02T06:40:41.662854+00:00
+P160,W32,https://malutprov.go.id/kontak,Interaksi/Kontak,"Auto-dipilih (link: ""Hubungi Kami"", keyword: kontak) - REVIEW",,rendered,2026-08-02T06:40:46.255180+00:00
+P161,W33,https://dinsosdukcapil.papua.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:40:50.761282+00:00
+P162,W33,https://dinsosdukcapil.papua.go.id/pages/visi-misi,Profil,"Auto-dipilih (link: ""Visi Misi"", keyword: visi) - REVIEW",,rendered,2026-08-02T06:41:06.011503+00:00
+P163,W33,https://dinsosdukcapil.papua.go.id/pages/sub-bagian-program,Layanan,"Auto-dipilih (link: ""Sub Bagian Program"", keyword: program) - REVIEW",,rendered,2026-08-02T06:41:10.449736+00:00
+P164,W33,https://dinsosdukcapil.papua.go.id/pages/berita,Konten,"Auto-dipilih (link: ""Berita"", keyword: berita) - REVIEW",,rendered,2026-08-02T06:41:13.771758+00:00
+P165,W33,https://dinsosdukcapil.papua.go.id/pages/layanan-pengaduan-masyarakat,Interaksi/Kontak,"Auto-dipilih (link: ""Layanan Pengaduan Masyarakat"", keyword: pengaduan) - REVIEW",,rendered,2026-08-02T06:41:18.028169+00:00
+P166,W34,https://dinsos.papuabaratprov.go.id/,Homepage,"Auto-dipilih (link: ""(homepage)"", keyword: ) - REVIEW",,rendered,2026-08-02T06:41:21.931323+00:00
+P167,W34,https://dinsos.papuabaratprov.go.id/pages/struktur-organisasi,Profil,"Auto-dipilih (link: ""Struktur Organisasi"", keyword: struktur) - REVIEW",,rendered,2026-08-02T06:41:31.857643+00:00
+P168,W34,https://dinsos.papuabaratprov.go.id/cekstatus,Layanan,"Auto-dipilih (link: ""Cek Status Permohonan"", keyword: permohonan) - REVIEW",,rendered,2026-08-02T06:41:35.641451+00:00
+P169,W34,https://dinsos.papuabaratprov.go.id/permintaaninformasi,Konten,"Auto-dipilih (link: ""Form Permintaan Informasi"", keyword: informasi) - REVIEW",,rendered,2026-08-02T06:41:39.046463+00:00
+P170,W34,https://dinsos.papuabaratprov.go.id/pages/kontak,Interaksi/Kontak,"Auto-dipilih (link: ""Kontak"", keyword: kontak) - REVIEW",,rendered,2026-08-02T06:41:42.227530+00:00
