@@ -1,0 +1,319 @@
+website_id,page_type,candidate_url,link_text,matched_keyword
+W01,Profil,https://dinsos.acehprov.go.id/halaman/visi-dan-misi,VISI-MISI,visi
+W01,Profil,https://dinsos.acehprov.go.id/halaman/tupoksi-dan-kewenangan,TUPOKSI,tupoksi
+W01,Profil,https://dinsos.acehprov.go.id/halaman/struktur-organisasi,STRUKTUR ORGANISASI,struktur
+W01,Layanan,https://dinsos.acehprov.go.id/halaman/sarana-layanan-ppid,SARANA LAYANAN PPID,layanan
+W01,Layanan,https://dinsos.acehprov.go.id/halaman/maklumat-pelayanan,MAKLUMAT PELAYANAN,layanan
+W01,Layanan,https://dinsos.acehprov.go.id/halaman/tata-cara-permohonan-informasi,TATA CARA PERMOHONAN INFORMASI,permohonan
+W01,Konten,https://dinsos.acehprov.go.id/berita,BERITA,berita
+W01,Konten,https://dinsos.acehprov.go.id/halaman/kegiatan,KEGIATAN PPID,kegiatan
+W01,Konten,https://dinsos.acehprov.go.id/halaman/tata-cara-permohonan-informasi,TATA CARA PERMOHONAN INFORMASI,informasi
+W01,Interaksi/Kontak,https://dinsos.acehprov.go.id/halaman/formulir-permohonan-informasi-publik,FORMULIR PERMOHONAN INFORMASI PUBLIK,formulir
+W01,Interaksi/Kontak,https://dinsos.acehprov.go.id/halaman/formulir-keberatan-informasi-publik,FORMULIR KEBERATAN INFORMASI PUBLIK,formulir
+W01,Interaksi/Kontak,https://dinsos.acehprov.go.id/halaman/tata-cara-pengaduan-dan-pelaporan,TATA CARA PENGADUAN,pengaduan
+W02,Profil,https://dinsos.sumutprov.go.id/pages/tugas-dan-fungsi,Tugas dan Fungsi,tugas dan fungsi
+W02,Profil,https://dinsos.sumutprov.go.id/pages/visi-misi-dan-motto,Visi Misi dan Motto,visi
+W02,Profil,https://dinsos.sumutprov.go.id/pages/struktur-organisasi,Struktur Organisasi,struktur
+W02,Layanan,https://dinsos.sumutprov.go.id/pages/maklumat-pelayanan,Maklumat Pelayanan,layanan
+W02,Layanan,https://dinsos.sumutprov.go.id/pages/uptd-pelayanan-sosial,UPTD Pelayanan Sosial,layanan
+W02,Layanan,https://dinsos.sumutprov.go.id/pages/standar-pelayanan,Standar Pelayanan,layanan
+W02,Konten,https://dinsos.sumutprov.go.id/news,Berita,berita
+W02,Konten,https://dinsos.sumutprov.go.id/berita-pemprov/jelang-porprovsu-2026-koni-sumut-intensifkan-pembinaan-atlet,"Jelang Porprovsu 2026, KONI Sumut Intensifkan Pembinaan Atlet",berita
+W02,Konten,https://dinsos.sumutprov.go.id/berita-pemprov/gubernur-bobby-nasution-minta-ojk-perkuat-ekosistem-keuangan-syariah-di-sumut,Gubernur Bobby Nasution Minta OJK Perkuat Ekosistem Keuangan Syariah di Sumut,berita
+W02,Interaksi/Kontak,https://dinsos.sumutprov.go.id/pages/kontak,Kontak,kontak
+W03,Profil,https://dinsos.sumbarprov.go.id/profil,Profil,profil
+W03,Profil,https://dinsos.sumbarprov.go.id/profilPpid,Profil PPID,profil
+W03,Layanan,https://dinsos.sumbarprov.go.id/permohonanInformasi,Permohonan Informasi,permohonan
+W03,Layanan,https://dinsos.sumbarprov.go.id/keberatanPermohonan,Keberatan Permohonan,permohonan
+W03,Layanan,https://dinsos.sumbarprov.go.id/berita/penyerahan-bantuan-hibah-produk-hidup-kepada-psaa-baitur-rafki-as-sa%27diyah-wujud-pelayanan-nyata-untuk-masyarakat,Baca Selengkapnya,layanan
+W03,Konten,https://dinsos.sumbarprov.go.id/berita,Berita,berita
+W03,Konten,https://dinsos.sumbarprov.go.id/pengumuman,Pengumuman,pengumuman
+W03,Konten,https://dinsos.sumbarprov.go.id/informasiSertaMerta,Informasi Serta Merta,informasi
+W03,Interaksi/Kontak,https://dinsos.sumbarprov.go.id/pengumuman/mekanisme-konsultasi-dan-pengaduan,Baca Selengkapnya,pengaduan
+W04,Profil,https://dinsos.riau.go.id/profil,Profil,profil
+W04,Profil,https://dinsos.riau.go.id/profil-kepala-dinas,Baca Lebih Lanjut,profil
+W04,Layanan,https://dinsos.riau.go.id/berita/19,Maklumat Layanan Informasi,layanan
+W04,Layanan,https://dinsos.riau.go.id/layanan-publik,Layanan Publik,layanan
+W04,Layanan,https://dinsos.riau.go.id/layanan-publik#content-bantuan,Pusat Bantuan (FAQ),layanan
+W04,Konten,https://dinsos.riau.go.id/berita,Berita,berita
+W04,Konten,https://dinsos.riau.go.id/berita/19,Maklumat Layanan Informasi,berita
+W04,Konten,https://dinsos.riau.go.id/layanan-publik#content-dokumen,Dokumen Publikasi,publikasi
+W04,Interaksi/Kontak,https://dinsos.riau.go.id/ppid/daftar-informasi/pengaduan-monitoring-pkh,"11. Pengaduan Masyarakat, Monitoring dan Evaluasi Program Keluarga Harapan (PKH)",pengaduan
+W04,Interaksi/Kontak,https://dinsos.riau.go.id/kontak,Kontak,kontak
+W05,Profil,,TIDAK KETEMU (Selenium juga) - cek manual,
+W05,Layanan,,TIDAK KETEMU (Selenium juga) - cek manual,
+W05,Konten,,TIDAK KETEMU (Selenium juga) - cek manual,
+W05,Interaksi/Kontak,,TIDAK KETEMU (Selenium juga) - cek manual,
+W06,Profil,https://dinsos.sumselprov.go.id/profil/struktur-organisasi,Struktur Organisasi,profil
+W06,Profil,https://dinsos.sumselprov.go.id/profil/kepala-dinas,Profil Kepala Dinas,profil
+W06,Profil,https://dinsos.sumselprov.go.id/profil/visi-misi,Visi Misi,profil
+W06,Layanan,https://dinsos.sumselprov.go.id/layanan/rekomendasi-izin-undian-gratis,Rekomendasi Izin Undian Gratis (Provinsi),layanan
+W06,Layanan,https://dinsos.sumselprov.go.id/layanan/izin-pengangkatan-anak-antar-wni,Pengangkatan Anak Antar WNI,layanan
+W06,Layanan,https://dinsos.sumselprov.go.id/layanan/izin-pengumpulan-uang-barang-provinsi,Izin Pengumpulan Uang/Barang (Provinsi),layanan
+W06,Konten,https://dinsos.sumselprov.go.id/berita,berita,berita
+W06,Konten,https://dinsos.sumselprov.go.id/kegiatan-dinsos,kegiatan,kegiatan
+W06,Konten,https://dinsos.sumselprov.go.id/layanan/izin-kegiatan-lks-lksa-provinsi,Izin Kegiatan LKS/LKSA (Provinsi),kegiatan
+W06,Interaksi/Kontak,https://dinsos.sumselprov.go.id/layanan/pengaduan-masyarakat,Pengaduan Masyarakat,pengaduan
+W06,Interaksi/Kontak,https://dinsos.sumselprov.go.id/kontak,Hubungi Kami,kontak
+W07,Profil,https://dinsos.bengkuluprov.go.id/profil/,Profil,profil
+W07,Profil,https://dinsos.bengkuluprov.go.id/visi-dan-misi/,Visi dan Misi,visi
+W07,Profil,https://dinsos.bengkuluprov.go.id/struktur-organisasi/,Struktur Organisasi,struktur
+W07,Layanan,,TIDAK KETEMU (Selenium juga) - cek manual,
+W07,Konten,https://dinsos.bengkuluprov.go.id/informasi-berkala/,Informasi Berkala,informasi
+W07,Konten,https://dinsos.bengkuluprov.go.id/informasi-serta-merta/,Informasi Serta Merta,informasi
+W07,Konten,https://dinsos.bengkuluprov.go.id/informasi-setiap-saat/,Informasi Setiap Saat,informasi
+W07,Interaksi/Kontak,https://dinsos.bengkuluprov.go.id/kontak-kami/,Kontak Kami,kontak
+W08,Profil,,TIDAK KETEMU (Selenium juga) - cek manual,
+W08,Layanan,https://lampungprov.go.id/layanan-publik,Layanan Publik,layanan
+W08,Konten,,TIDAK KETEMU (Selenium juga) - cek manual,
+W08,Interaksi/Kontak,,TIDAK KETEMU (Selenium juga) - cek manual,
+W09,Profil,https://drupal.dinsospmd.babelprov.go.id/bahas-realisasi-anggaran-tahun-2025-kepala-dinas-sosial-pmd-mengikuti-rapat-kerja-dengan-komisi-iv,,misi
+W09,Profil,https://drupal.dinsospmd.babelprov.go.id/tinjau-pencapaian-kinerja-organisasi-dan-dukung-pembangunan-zi-kepala-dinas-sosial-pmd-pimpin,,organisasi
+W09,Profil,https://drupal.dinsospmd.babelprov.go.id/plt-kepala-dinas-sosial-pmd-terima-audiensi-anggota-komisi-i-dprd-kabbangka-tengah-bahas-upaya,,misi
+W09,Layanan,https://drupal.dinsospmd.babelprov.go.id/silahturahmi-dengan-pegawai-plt-kepala-dinsospmd-ajak-pegawai-untuk-berikan-layanan-publik-yang-baik,,layanan
+W09,Layanan,https://drupal.dinsospmd.babelprov.go.id/pengukuhan-dan-penyerahan-bantuan-logistik-kampung-siaga,,bantuan
+W09,Layanan,https://drupal.dinsospmd.babelprov.go.id/monitoring-pelaksanaan-program-p3pd-di-wilayah-kabupaten-bangka-selatan,,program
+W09,Konten,https://drupal.dinsospmd.babelprov.go.id/berita,more,berita
+W09,Konten,https://drupal.dinsospmd.babelprov.go.id/artikel-hari-disabilitas-internasional-2022,,artikel
+W09,Konten,https://drupal.dinsospmd.babelprov.go.id/artikel-mengatasi-stress-pada-lansia,,artikel
+W09,Interaksi/Kontak,https://drupal.dinsospmd.babelprov.go.id/kanal-layanan-pengaduan,,pengaduan
+W09,Interaksi/Kontak,https://drupal.dinsospmd.babelprov.go.id/laporan-berkala-penanganan-pengaduan-publik,Laporan Pengaduan Pelayanan Publik,pengaduan
+W09,Interaksi/Kontak,https://drupal.dinsospmd.babelprov.go.id/standar-pelayanan-pengaduan,SP PENGADUAN,pengaduan
+W10,Profil,https://dinsos.kepriprov.go.id/laman/tentang-kami,Profil,profil
+W10,Layanan,https://dinsos.kepriprov.go.id/layanan,Layanan,layanan
+W10,Layanan,https://dinsos.kepriprov.go.id/berita/gubernur/penyerahan-bantuan-kesejahteraan-sosial-bahan-pokok-beras-dan-bantuan-pengembangan-uep,Penyerahan Bantuan Kesejahteraan Sosial Bahan Pokok Beras dan Bantuan Pengembang,bantuan
+W10,Layanan,https://dinsos.kepriprov.go.id/berita/perangkat-daerah/bantuan-sosial-uang-usaha-ekonomi-produktif-uep,Bantuan Sosial Uang Usaha Ekonomi Produktif (UEP),bantuan
+W10,Konten,https://dinsos.kepriprov.go.id/berita,Berita,berita
+W10,Konten,https://dinsos.kepriprov.go.id/pengumuman,Pengumuman,pengumuman
+W10,Konten,https://dinsos.kepriprov.go.id/agenda,Event / Agenda,agenda
+W10,Interaksi/Kontak,https://dinsos.kepriprov.go.id/kontak,Kontak Kami,kontak
+W11,Profil,https://dinsos.jakarta.go.id/profile,Profil Kepala Dinas,profil
+W11,Profil,https://dinsos.jakarta.go.id/struktur-organisasi,Bagan Struktur Organisasi Dinas Sosial,struktur
+W11,Profil,https://dinsos.jakarta.go.id/asset-frontend/file/SK KADISKOMINFO 18 Tahun 2024 Tentang DIK.pdf,Daftar Informasi Dikecualikan,tentang
+W11,Layanan,https://dinsos.jakarta.go.id/asset-frontend/file/Alur-PPID.pdf,Tata Cara Permohonan Pengajuan Informasi dan Permohonan Keberatan,permohonan
+W11,Layanan,https://dinsos.jakarta.go.id/layanan,Layanan,layanan
+W11,Layanan,"https://dinsos.jakarta.go.id/berita/Sinergi Panti Sosial, WBS PSBL HS 3 Berikan Layanan Potong Rambut bagi Lansia PSTW BM 4","Sinergi Panti Sosial, WBS PSBL HS 3 Berikan Layanan Potong Rambut bagi Lansia PS",layanan
+W11,Konten,https://dinsos.jakarta.go.id/asset-frontend/file/Alur-PPID.pdf,Tata Cara Permohonan Pengajuan Informasi dan Permohonan Keberatan,informasi
+W11,Konten,https://dinsos.jakarta.go.id/asset-frontend/file/SK-DIP-2025.pdf,Daftar Informasi Publik,informasi
+W11,Konten,https://dinsos.jakarta.go.id/asset-frontend/file/SK KADISKOMINFO 18 Tahun 2024 Tentang DIK.pdf,Daftar Informasi Dikecualikan,informasi
+W11,Interaksi/Kontak,,TIDAK KETEMU (Selenium juga) - cek manual,
+W12,Profil,https://dinsos.jabarprov.go.id/visi-misi,Visi Misi,visi
+W12,Profil,https://dinsos.jabarprov.go.id/tugas-pokok-dan-fungsi-dinsos-jabar,Tupoksi & Tujuan,tupoksi
+W12,Profil,https://dinsos.jabarprov.go.id/struktur-organisasi-dinsos-jabar,Struktur Organisasi,struktur
+W12,Layanan,https://dinsos.jabarprov.go.id/sasaran-program-dinsos-jabar,Sasaran Program,program
+W12,Layanan,https://dinsos.jabarprov.go.id/layanan-rehabilitasi-uptd-dinsos-jabar,Unit Pelaksana Teknis Daerah,layanan
+W12,Layanan,https://dinsos.jabarprov.go.id/biaya-layanan,Biaya Layanan,layanan
+W12,Konten,https://dinsos.jabarprov.go.id/sop-pelayanan-informasi,Prosedur Pelayanan Informasi,informasi
+W12,Konten,https://dinsos.jabarprov.go.id/berita/berita-umum,Berita Umum,berita
+W12,Konten,https://dinsos.jabarprov.go.id/berita/berita-foto,Berita Foto,berita
+W12,Interaksi/Kontak,https://dinsos.jabarprov.go.id/pengaduan,Pengaduan,pengaduan
+W12,Interaksi/Kontak,https://dinsos.jabarprov.go.id/pengaduan-gratifikasi,Pengaduan Gratifikasi,pengaduan
+W12,Interaksi/Kontak,https://dinsos.jabarprov.go.id/FormulirPernyataanKeberatan,Formulir Pernyataan Keberatan,formulir
+W13,Profil,https://jatengprov.go.id/sejarah/,Sejarah,sejarah
+W13,Profil,https://jatengprov.go.id/visi-dan-misi/,Visi dan Misi,visi
+W13,Profil,https://jatengprov.go.id/tupoksi-badan-publik/,Tugas dan Fungsi Pemerintah Provinsi Jawa Tengah Beserta Unit di Bawahnya,tugas dan fungsi
+W13,Layanan,https://jatengprov.go.id/katalog-layanan-jatengprov/,Katalog Layanan,layanan
+W13,Layanan,https://jatengprov.go.id/kebijakan-dan-prosedur-implementasi-ai/,Kebijakan dan Prosedur Implementasi AI,prosedur
+W13,Layanan,https://jatengprov.go.id/rilis/daftar-peserta-lolos-administrasi-beasiswa-santri-2026-program-luar-negeri/,Daftar Peserta Lolos Administrasi Beasiswa Santri,program
+W13,Konten,https://jatengprov.go.id,JATENGPROV.GO.IDPortal Informasi Warga Jateng,informasi
+W13,Konten,https://jatengprov.go.id/news/,Berita Terkini,berita
+W13,Konten,https://jatengprov.go.id/publik/,Berita Utama,berita
+W13,Interaksi/Kontak,,TIDAK KETEMU (Selenium juga) - cek manual,
+W14,Profil,https://dinsos.jogjaprov.go.id/page/8e416db7-d645-46e9-a851-92bdcd9a9b5b,Sejarah,sejarah
+W14,Profil,https://dinsos.jogjaprov.go.id/page/9a89b606-42e5-430a-b152-69d0292c4aae,"Visi, Misi Tujuan, dan Sasaran",visi
+W14,Profil,https://dinsos.jogjaprov.go.id/page/450e6551-e368-11ef-ab28-ffab30f5f136,Struktur Organisasi,struktur
+W14,Layanan,https://dinsos.jogjaprov.go.id/page/6e81ad57-d317-4fc5-9817-f3effd135776,Program Kegiatan Tahun 2025,program
+W14,Layanan,https://dinsos.jogjaprov.go.id/page/87438a6c-e223-419c-bd5b-7448414e4b2b,Jadwal Pelaksanaan Program dan Kegiatan,program
+W14,Layanan,https://dinsos.jogjaprov.go.id/page/1be61527-0a7a-4453-8e90-cc6262d22e9f,Program Kegiatan Tahun 2026,program
+W14,Konten,https://dinsos.jogjaprov.go.id/page/6e81ad57-d317-4fc5-9817-f3effd135776,Program Kegiatan Tahun 2025,kegiatan
+W14,Konten,https://dinsos.jogjaprov.go.id/page/87438a6c-e223-419c-bd5b-7448414e4b2b,Jadwal Pelaksanaan Program dan Kegiatan,kegiatan
+W14,Konten,https://dinsos.jogjaprov.go.id/page/1be61527-0a7a-4453-8e90-cc6262d22e9f,Program Kegiatan Tahun 2026,kegiatan
+W14,Interaksi/Kontak,https://dinsos.jogjaprov.go.id/page/a03b8263-f8d2-49e5-9da8-2b6af8925616,Pengaduan Penyalahgunaan Wewenang,pengaduan
+W14,Interaksi/Kontak,https://dinsos.jogjaprov.go.id/page/0de85e74-a6b3-4ee4-aa2c-0cf8379d9301,Formulir Permohonan Informasi,formulir
+W14,Interaksi/Kontak,https://dinsos.jogjaprov.go.id/page/78e38f81-906c-4141-aef1-5e9e489187e4,Formulir Keberatan,formulir
+W15,Profil,https://dinsos.jatimprov.go.id/profil,Provinsi,profil
+W15,Profil,https://dinsos.jatimprov.go.id/profil/upt,UPT,profil
+W15,Profil,https://dinsos.jatimprov.go.id/publik-ppid/menu/profil,PPID,profil
+W15,Layanan,https://dinsos.jatimprov.go.id/menu/layanan,Layanan,layanan
+W15,Layanan,https://dinsos.jatimprov.go.id/laporan-publik,Layanan Pengaduan,layanan
+W15,Layanan,https://dinsos.jatimprov.go.id/simlontar/,Pelayanan Orang Terlantar (OT),layanan
+W15,Konten,https://dinsos.jatimprov.go.id/list-kegiatan,Kegiatan,kegiatan
+W15,Konten,https://dinsos.jatimprov.go.id/berita-publik,Berita,berita
+W15,Konten,https://dinsos.jatimprov.go.id/detail-berita-publik/tagana-gresik-ambil-peran-dalam-persiapan-mpls-srt-1-gresik,,berita
+W15,Interaksi/Kontak,https://dinsos.jatimprov.go.id/laporan-publik,Layanan Pengaduan,pengaduan
+W16,Profil,https://dinsos.bantenprov.go.id/sejarah-banten,Sejarah Banten,sejarah
+W16,Profil,https://dinsos.bantenprov.go.id/profil-dinas-sosial,Profil Dinas Sosial,profil
+W16,Profil,https://dinsos.bantenprov.go.id/tugas-dan-fungsi,Tugas dan Fungsi,tugas dan fungsi
+W16,Layanan,https://dinsos.bantenprov.go.id/kebijakan-pelayanan-informasi-publik,Kebijakan Pelayanan Informasi Publik,layanan
+W16,Layanan,https://dinsos.bantenprov.go.id/visi-dan-misi-pelayanan-publik,"Maklumat, Visi dan Misi Pelayanan Publik",layanan
+W16,Layanan,https://dinsos.bantenprov.go.id/SK-Pelayanan-Publik,SK Pelayanan Publik,layanan
+W16,Konten,https://dinsos.bantenprov.go.id/kategori/9fcd9da3-756c-46af-ba9f-bfb06ac57533/artikel,Artikel,artikel
+W16,Konten,https://dinsos.bantenprov.go.id/kategori/8722e690-845f-48ce-bbac-dd6b889d2414/berita,Berita,berita
+W16,Konten,https://dinsos.bantenprov.go.id/kategori/03f163f0-cd2a-48cc-b855-3960b21db40f/pengumuman,Pengumuman,pengumuman
+W16,Interaksi/Kontak,https://dinsos.bantenprov.go.id/tata-cara-pengaduan,Tata Cara Pengaduan,pengaduan
+W16,Interaksi/Kontak,https://dinsos.bantenprov.go.id/Laporan-Evaluasi-Pengaduan,Laporan Evaluasi Pengaduan,pengaduan
+W17,Profil,,TIDAK KETEMU (Selenium juga) - cek manual,
+W17,Layanan,,TIDAK KETEMU (Selenium juga) - cek manual,
+W17,Konten,,TIDAK KETEMU (Selenium juga) - cek manual,
+W17,Interaksi/Kontak,,TIDAK KETEMU (Selenium juga) - cek manual,
+W18,Profil,https://dinsosntbpemprov.com/profile/,Profil Kepala Dinas,profil
+W18,Profil,https://dinsosntbpemprov.com/struktur-organisasi/,Bagan Struktur Organisasi Dinas Sosial,struktur
+W18,Profil,https://dinsosntbpemprov.com/tugas-dan-fungsi-dinas-sosial/,Tugas dan Fungsi Dinas Sosial,tugas dan fungsi
+W18,Layanan,https://dinsosntbpemprov.com/tata-cara-permohonan-pengajuan-informasi-dan-permohonan-keberatan/,Tata Cara Permohonan Pengajuan Informasi dan Permohonan Keberatan,permohonan
+W18,Layanan,https://dinsosntbpemprov.com/form-pengajuan-permohonan-informasi-publik/,Form Pengajuan Permohonan Informasi Publik,permohonan
+W18,Layanan,https://dinsosntbpemprov.com/cek-status-permohonan-informasi-publik/,Cek Status Permohonan Informasi Publik,permohonan
+W18,Konten,https://dinsosntbpemprov.com/tata-cara-permohonan-pengajuan-informasi-dan-permohonan-keberatan/,Tata Cara Permohonan Pengajuan Informasi dan Permohonan Keberatan,informasi
+W18,Konten,https://dinsosntbpemprov.com/form-pengajuan-permohonan-informasi-publik/,Form Pengajuan Permohonan Informasi Publik,informasi
+W18,Konten,https://dinsosntbpemprov.com/cek-status-permohonan-informasi-publik/,Cek Status Permohonan Informasi Publik,informasi
+W18,Interaksi/Kontak,,TIDAK KETEMU (Selenium juga) - cek manual,
+W19,Profil,https://dinsos.nttprov.go.id/profil-dinas,Profil,profil
+W19,Profil,https://dinsos.nttprov.go.id/profil-dinas?tab=selayang,Selayang Pandang,profil
+W19,Profil,https://dinsos.nttprov.go.id/profil-dinas?tab=sejarah,Sejarah,profil
+W19,Layanan,https://dinsos.nttprov.go.id/layanan/pengaduan,Pengaduan,layanan
+W19,Layanan,https://dinsos.nttprov.go.id/berita/detail/gerakan-1000-hari-menuju-bahagia-uptd-kesos-lansia-budi-agung-salurkan-bantuan-wapres-untuk-lanjut-usia-di-luar-panti,,bantuan
+W19,Layanan,https://dinsos.nttprov.go.id/berita/detail/dinas-sosial-provinsi-ntt-perkuat-koordinasi-dan-transparansi-program-perlindungan-sosial,,program
+W19,Konten,https://dinsos.nttprov.go.id/berita,Berita,berita
+W19,Konten,https://dinsos.nttprov.go.id/berita/detail/dinas-sosial-ntt-dorong-penguatan-perlindungan-sosial-dalam-pembahasan-kua-ppas-apbd-2027,,berita
+W19,Konten,https://dinsos.nttprov.go.id/berita/detail/uji-keterbukaan-informasi-publik-dinas-sosial-ntt-jalani-monitoring-dan-evaluasi-tahun-2026,,berita
+W19,Interaksi/Kontak,https://dinsos.nttprov.go.id/kontak,Kontak,kontak
+W19,Interaksi/Kontak,https://dinsos.nttprov.go.id/layanan/pengaduan,Pengaduan,pengaduan
+W20,Profil,https://dinsos.kalbarprov.go.id/profil/struktur-organisasi/,Struktur Organisasi,profil
+W20,Profil,https://dinsos.kalbarprov.go.id/ppid/profil-ppid/,Profil PPID,profil
+W20,Profil,https://dinsos.kalbarprov.go.id/ppid/struktur-ppid/,Struktur PPID,struktur
+W20,Layanan,https://dinsos.kalbarprov.go.id/infografis/perbaiki-layanan-publik/,Perbaiki Layanan Publik,layanan
+W20,Layanan,https://dinsos.kalbarprov.go.id/infografis/alur-pelayanan-dinas-sosial-provinsi-kalimantan-barat/,Alur Pelayanan Dinas Sosial Provinsi Kalimantan Barat,layanan
+W20,Layanan,https://dinsos.kalbarprov.go.id/berita/dukung-gmd-di-temajuk-dinsos-kalbar-dekatkan-layanan-dtks-hingga-salurkan-bantuan-paket-sekolah/,"12 Jun 26Dukung GMD di Temajuk, Dinsos Kalbar Dekatkan Layanan DTKS hingga Salur",layanan
+W20,Konten,https://dinsos.kalbarprov.go.id/berita,Berita,berita
+W20,Konten,https://dinsos.kalbarprov.go.id/kumpulan-data-dan-laporan-kegiatan,Kumpulan Data dan Laporan Kegiatan,kegiatan
+W20,Konten,https://dinsos.kalbarprov.go.id/berita/dinsos-kalbar-tetapkan-calon-peserta-didik-sekolah-rakyat-melalui-rapat-pleno-terbuka/,19 Jun 26Dinsos Kalbar Tetapkan Calon Peserta Didik Sekolah Rakyat Melalui Rapat,berita
+W20,Interaksi/Kontak,https://dinsos.kalbarprov.go.id/hubungi-kami,Hubungi Kami,hubungi
+W20,Interaksi/Kontak,https://dinsos.kalbarprov.go.id/infografis/alur-pengaduan-dinas-sosial-provinsi-kalimantan-barat/,Alur Pengaduan Dinas Sosial Provinsi Kalimantan Barat,pengaduan
+W21,Profil,https://dinsos.kalteng.go.id/tentang/visi,Visi Dinas Sosial,tentang
+W21,Profil,https://dinsos.kalteng.go.id/tentang/misi,Misi Dinas Sosial,tentang
+W21,Profil,https://dinsos.kalteng.go.id/tentang/motto-dinas-sosial,Motto Dinas Sosial,tentang
+W21,Layanan,https://dinsos.kalteng.go.id/pelayanan/pmks,PMKS,layanan
+W21,Layanan,https://dinsos.kalteng.go.id/pelayanan/psks,PSKS,layanan
+W21,Layanan,https://dinsos.kalteng.go.id/pelayanan/maklumat-pelayanan,Maklumat Pelayanan,layanan
+W21,Konten,https://dinsos.kalteng.go.id/kabar/kategori/artikel,Artikel,artikel
+W21,Konten,https://dinsos.kalteng.go.id/kabar/kategori/berita,Berita,berita
+W21,Konten,https://dinsos.kalteng.go.id/kabar/kategori/pengumuman,Pengumuman,pengumuman
+W21,Interaksi/Kontak,https://dinsos.kalteng.go.id/kontak-kami,Kontak,kontak
+W22,Profil,https://dinsos.kalselprov.go.id/user/profil/VISI-DAN-MISI,VISI DAN MISI,profil
+W22,Profil,https://dinsos.kalselprov.go.id/service-details.html,Profile SKPD,profil
+W22,Layanan,https://dinsos.kalselprov.go.id/user/layanan/Pengangkatan-Anak,Standar Pelayanan Pengangkatan Anak,layanan
+W22,Layanan,https://dinsos.kalselprov.go.id/user/layanan/Standar-Pelayanan-Penerbitan-Surat-Tanda-Pendaftaran-Lembaga-Kesejahteraan-Sosial-(LKS),Standar Pelayanan Penerbitan Surat Tanda Pendaftaran Lembaga Kesejahteraan Sosia,layanan
+W22,Layanan,https://dinsos.kalselprov.go.id/user/layanan/Standar-Pelayanan-Pemulangan-Orang-Terlantar,Standar Pelayanan Pemulangan Orang Terlantar,layanan
+W22,Konten,https://dinsos.kalselprov.go.id/user/berita?page=1,INFORMASI,berita
+W22,Konten,https://dinsos.kalselprov.go.id/user/berita_detail/SP,,berita
+W22,Konten,https://dinsos.kalselprov.go.id/user/berita_detail/SKM-2025,,berita
+W22,Interaksi/Kontak,https://dinsos.kalselprov.go.id/user/kontak,KONTAK KAMI,kontak
+W22,Interaksi/Kontak,https://dinsos.kalselprov.go.id/contactus.html,Contact,contact
+W23,Profil,https://dinsos.kaltimprov.go.id/profil-dinsos,Tentang,profil
+W23,Profil,https://dinsos.kaltimprov.go.id/visi-misi,Visi & Misi,visi
+W23,Profil,https://dinsos.kaltimprov.go.id/sejarah,Sejarah,sejarah
+W23,Layanan,https://dinsos.kaltimprov.go.id/maklumat-pelayanan-2,Maklumat Pelayanan,layanan
+W23,Layanan,https://dinsos.kaltimprov.go.id/alur-permohonan-informasi,Alur Permohonan Informasi,permohonan
+W23,Konten,https://dinsos.kaltimprov.go.id/berita,Media Center,berita
+W23,Konten,https://dinsos.kaltimprov.go.id/alur-permohonan-informasi,Alur Permohonan Informasi,informasi
+W23,Konten,https://dinsos.kaltimprov.go.id/berita/menjelang-purna-tugas-musa-pimpin-senam-pagi-bersama-klien-uptd-prsts-hm,"“Menjelang Purna Tugas, Musa Pimpin Senam Pagi Bersama Klien UPTD PRSTS HM”",berita
+W23,Interaksi/Kontak,https://dinsos.kaltimprov.go.id/kontak,Kontak,kontak
+W24,Profil,https://dinsos.kaltaraprov.go.id/Profil,Profil,profil
+W24,Profil,https://dinsos.kaltaraprov.go.id/profil-ppid-dinas-sosial-2/,PPID,profil
+W24,Layanan,https://dinsos.kaltaraprov.go.id/pelayanan-pengaduan/,Layanan,layanan
+W24,Layanan,https://dinsos.kaltaraprov.go.id/unit-kerja/,Layanan Sosial,layanan
+W24,Konten,https://dinsos.kaltaraprov.go.id/elementor-6083,Berita Kaltara,berita
+W24,Interaksi/Kontak,https://dinsos.kaltaraprov.go.id/pelayanan-pengaduan/,Layanan,pengaduan
+W24,Interaksi/Kontak,https://dinsos.kaltaraprov.go.id/formulir-pengaduan/,Pengaduan,pengaduan
+W25,Profil,https://sulutprov.go.id/profil,Profil,profil
+W25,Profil,https://sulutprov.go.id/profil-sekprov,SEKDAPROV,profil
+W25,Layanan,https://sulutprov.go.id/press-release/gubernur-yulius-pastikan-negara-hadir-bantuan-untuk-korban-kebakaran-asgap-pakowa-disalurkan,"30 Juli 2026Gubernur Yulius Pastikan Negara Hadir, Bantuan untuk Korban Kebakara",bantuan
+W25,Layanan,https://sulutprov.go.id/berita/bi-serahkan-mobil-hibah-ke-sinode-gmibm-gubernur-yulius-pemerintah-juga-siap-dukung-kebutuhan-pelayanan-gereja,"10 Mar 2026BI Serahkan Mobil Hibah ke Sinode GMIBM, Gubernur Yulius: Pemerintah ",layanan
+W25,Konten,https://sulutprov.go.id/berita,Berita,berita
+W25,Konten,https://sulutprov.go.id/informasi-berkala,Informasi Berkala,informasi
+W25,Konten,https://sulutprov.go.id/informasi-setiap-saat,Informasi Setiap Saat,informasi
+W25,Interaksi/Kontak,,TIDAK KETEMU (Selenium juga) - cek manual,
+W26,Profil,,TIDAK KETEMU (Selenium juga) - cek manual,
+W26,Layanan,,TIDAK KETEMU (Selenium juga) - cek manual,
+W26,Konten,,TIDAK KETEMU (Selenium juga) - cek manual,
+W26,Interaksi/Kontak,,TIDAK KETEMU (Selenium juga) - cek manual,
+W27,Profil,,TIDAK KETEMU (Selenium juga) - cek manual,
+W27,Layanan,,TIDAK KETEMU (Selenium juga) - cek manual,
+W27,Konten,https://sulselprov.go.id/berita,Lihat Semua,berita
+W27,Interaksi/Kontak,,TIDAK KETEMU (Selenium juga) - cek manual,
+W28,ALL,,"GAGAL LOAD SELENIUM: Message: invalid argument
+  (Session info: chrome=150.0.7871.187)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff60a1c0d25+155a5]
+	chromedriver!GetHandleVerifier [0x7ff60a1c0d80+15600]
+	chromedriver!(No symbol) [0x7ff609d15736]
+	chromedriver!(No symbol) [0x7ff609d01f28]
+	chromedriver!(No symbol) [0x7ff609d0035b]
+	chromedriver!(No symbol) [0x7ff609d008e2]
+	chromedriver!(No symbol) [0x7ff609d19bf6]
+	chromedriver!(No symbol) [0x7ff609dbee24]
+	chromedriver!(No symbol) [0x7ff609d991ca]
+	chromedriver!(No symbol) [0x7ff609dbe01b]
+	chromedriver!(No symbol) [0x7ff609d62e6c]
+	chromedriver!(No symbol) [0x7ff609d63d93]
+	chromedriver!GetHandleVerifier [0x7ff60a7a6431+5facb1]
+	chromedriver!GetHandleVerifier [0x7ff60a7a0a9b+5f531b]
+	chromedriver!GetHandleVerifier [0x7ff60a7c5865+61a0e5]
+	chromedriver!GetHandleVerifier [0x7ff60a1ddace+3234e]
+	chromedriver!GetHandleVerifier [0x7ff60a1e661c+3ae9c]
+	chromedriver!GetHandleVerifier [0x7ff60a1cab74+1f3f4]
+	chromedriver!GetHandleVerifier [0x7ff60a1cad04+1f584]
+	chromedriver!GetHandleVerifier [0x7ff60a1ad9d7+2257]
+	KERNEL32!BaseThreadInitThunk [0x7ffd64cb259d+1d]
+	ntdll!RtlUserThreadStart [0x7ffd65d8af78+28]
+",
+W29,Profil,https://dinsos.gorontaloprov.go.id/struktur-organisasi-dinsos-dukcapil-provgorontalo-th-2025,Struktur Organisasi,struktur
+W29,Layanan,https://dinsos.gorontaloprov.go.id/layanan,Lihat Layanan,layanan
+W29,Layanan,https://dinsos.gorontaloprov.go.id/dinsosdukcapil-gorontalo-dampingi-penyaluran-bantuan-atensi-kemensos-untuk-140-warga-rentan-di-boalemo,2026-07-29Dinsosdukcapil Gorontalo Dampingi Penyaluran Bantuan A...398x dilihat,bantuan
+W29,Konten,https://dinsos.gorontaloprov.go.id/berita,Berita Terbaru,berita
+W29,Konten,https://dinsos.gorontaloprov.go.id/jurnal-berita,Jurnal Berita,berita
+W29,Konten,https://dinsos.gorontaloprov.go.id/dokumen/flayer,publikasi,publikasi
+W29,Interaksi/Kontak,,TIDAK KETEMU (Selenium juga) - cek manual,
+W30,Profil,https://dinsosp3apmd.sulbarprov.go.id/page/profil,PROFIL,profil
+W30,Profil,https://dinsosp3apmd.sulbarprov.go.id/page/sejarah,Sejarah,sejarah
+W30,Profil,https://dinsosp3apmd.sulbarprov.go.id/page/profil-pimpinan,Profil Pimpinan,profil
+W30,Layanan,https://dinsosp3apmd.sulbarprov.go.id/page/layanan,Layanan,layanan
+W30,Layanan,https://dinsosp3apmd.sulbarprov.go.id/post/dinsos-p3apmd-sulbar-gelar-sosialisasi-dan-juknis-penyaluran-bantuan-tunai-bagi-masyarakat-miskin-ekstrem-dan-miskin-lainnya,Dinsos P3APMD Sulbar Gelar Sosialisasi dan Juknis Penyaluran Bantuan Tunai bagi ,bantuan
+W30,Konten,https://dinsosp3apmd.sulbarprov.go.id/page/informasi-publik,INFORMASI PUBLIK,informasi
+W30,Konten,https://dinsosp3apmd.sulbarprov.go.id/page/informasi-berkala,Informasi Berkala,informasi
+W30,Konten,https://dinsosp3apmd.sulbarprov.go.id/page/informasi-serta-merta,Informasi Serta Merta,informasi
+W30,Interaksi/Kontak,,TIDAK KETEMU (Selenium juga) - cek manual,
+W31,Profil,https://dinsos.malukuprov.go.id/,PROFIL,profil
+W31,Profil,https://dinsos.malukuprov.go.id/halaman/detail/visi--misi,Visi Misi,visi
+W31,Profil,https://dinsos.malukuprov.go.id/halaman/detail/profil-kepala-dinas-sosial-provinsi-maluku,Pejabat,profil
+W31,Layanan,https://dinsos.malukuprov.go.id/halaman/detail/moto-pelayanan,Motto dan Maklumat,layanan
+W31,Layanan,https://dinsos.malukuprov.go.id/halaman/detail/sop-alur-pelayanan,Standar Operasional Prosedur Layanan,layanan
+W31,Konten,https://dinsos.malukuprov.go.id/berita,Berita & Kegiatan,berita
+W31,Interaksi/Kontak,https://dinsos.malukuprov.go.id/aduan,Form Pengaduan internal,pengaduan
+W32,Profil,https://malutprov.go.id/pages/tentang-maluku-utara,Tentang,tentang
+W32,Profil,https://malutprov.go.id/pages/visi-dan-misi-pemerintah-provinsi-maluku-utara,Visi & Misi,visi
+W32,Profil,https://malutprov.go.id/pages/tugas-dan-fungsi-provinsi-maluku-utara,Tugas dan Fungsi,tugas dan fungsi
+W32,Layanan,https://malutprov.go.id/sinergi-pemprov-malut-dan-ombudsman-ri-dorong-pelayanan-publik-bebas-maladministrasi,Sekprov30 Jul 2026Sinergi Pemprov Malut dan Ombudsman RI Dorong Pelayanan Publik,layanan
+W32,Layanan,https://malutprov.go.id/storage/documents/Update-Data-Buffer-Stok-Logistik-14-01-26.pdf,Daftar Bantuan Logistik Posko Bencana Banjir Kab. Halmahera Utara Tanggal 14 Jan,bantuan
+W32,Layanan,https://malutprov.go.id/layanan?category=administrasi,Lihat Semua Layanan Administrasi,layanan
+W32,Konten,https://malutprov.go.id/pages/informasi-berkala,Informasi Berkala,informasi
+W32,Konten,https://malutprov.go.id/pages/informasi-serta-merta,Informasi Serta Merta,informasi
+W32,Konten,https://malutprov.go.id/pages/informasi-setiap-saat,Informasi Setiap Saat,informasi
+W32,Interaksi/Kontak,https://malutprov.go.id/kontak,Hubungi Kami,kontak
+W33,Profil,https://dinsosdukcapil.papua.go.id/pages/visi-misi,Visi Misi,visi
+W33,Profil,https://dinsosdukcapil.papua.go.id/pages/struktur-organisasi,Struktur Organisasi,struktur
+W33,Layanan,https://dinsosdukcapil.papua.go.id/pages/sub-bagian-program,Sub Bagian Program,program
+W33,Layanan,https://dinsosdukcapil.papua.go.id/pages/seksi-pengelolaan-bantuan-sosial-dan-komunitas-adat,Seksi Pengelolaan Bantuan Sosial dan Komunitas Adat,bantuan
+W33,Layanan,https://dinsosdukcapil.papua.go.id/pages/seksi-kerjasama-dan-inovasi-pelayanan,Seksi Kerjasama dan Inovasi Pelayanan,layanan
+W33,Konten,https://dinsosdukcapil.papua.go.id/pages/berita,Berita,berita
+W33,Konten,https://dinsosdukcapil.papua.go.id/pengumuman,Pengumuman,pengumuman
+W33,Konten,https://dinsosdukcapil.papua.go.id/agenda,Agenda,agenda
+W33,Interaksi/Kontak,https://dinsosdukcapil.papua.go.id/pages/layanan-pengaduan-masyarakat,Layanan Pengaduan Masyarakat,pengaduan
+W34,Profil,https://dinsos.papuabaratprov.go.id/pages/struktur-organisasi,Struktur Organisasi,struktur
+W34,Profil,https://dinsos.papuabaratprov.go.id/pages/visi-misi,VISI MISI,visi
+W34,Layanan,https://dinsos.papuabaratprov.go.id/cekstatus,Cek Status Permohonan,permohonan
+W34,Layanan,https://dinsos.papuabaratprov.go.id/pages/pelayanan-publik,PELAYANAN PUBLIK,layanan
+W34,Layanan,https://dinsos.papuabaratprov.go.id/berita/penyerahan-bantuan-permakan-bagi-anak-terlantar-di-dalam-panti,Penyerahan Bantuan Permakan Ba...,bantuan
+W34,Konten,https://dinsos.papuabaratprov.go.id/permintaaninformasi,Form Permintaan Informasi,informasi
+W34,Konten,https://dinsos.papuabaratprov.go.id/keberataninformasi,Form Keberatan Informasi,informasi
+W34,Konten,https://dinsos.papuabaratprov.go.id/informasi-publik/1,Informasi Tersedia Setiap Saat,informasi
+W34,Interaksi/Kontak,https://dinsos.papuabaratprov.go.id/pages/kontak,Kontak,kontak
